@@ -1,0 +1,1 @@
+In this article we're going to look at the most common scenarios of serialization using the Gson library. Let's start by introducing a simple.
